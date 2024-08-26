@@ -1,3 +1,2 @@
 # SPHEREx_SOM
-Apply self-organizing-map to SPHEREx-like photometry derived from COSMOS.
-A 2024 SURF at Caltech
+Useing a data-driven method called self-organizing map to cluster simulated SPHEREx photometry and characterize redshift distribution of SPHEREx photometry (A 2024 SURF program at Caltech).
